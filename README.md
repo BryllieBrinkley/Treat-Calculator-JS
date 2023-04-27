@@ -1,2 +1,3 @@
 # Treat-Calculator-JS
-A calculator that tells you how much you will save if you stopped purchasing a treat. Also made in python.
+
+A calculator that displays how much money the user will save over a period of time if they stopped purchasing snack of their choice.
